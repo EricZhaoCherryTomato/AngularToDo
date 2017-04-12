@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
 
+Live page : http://erictodoangular.azurewebsites.net/
+
+[Codeship Status for spboyer/quickstart-ng-cli](https://codeship.com/projects/1e0d7860-0173-0135-14f5-0a2b5b4d9f98/status?branch=master)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
