@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Live page : http://erictodoangular.azurewebsites.net/
 
-[Codeship Status for spboyer/quickstart-ng-cli](https://codeship.com/projects/1e0d7860-0173-0135-14f5-0a2b5b4d9f98/status?branch=master)
+![Codeship Status for spboyer/quickstart-ng-cli](https://codeship.com/projects/1e0d7860-0173-0135-14f5-0a2b5b4d9f98/status?branch=master)
 
 ## Development server
 
